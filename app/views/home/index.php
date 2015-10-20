@@ -1,1 +1,1 @@
-Hello <?=$data['name']?>
+Home: <?=$data['name']?>
